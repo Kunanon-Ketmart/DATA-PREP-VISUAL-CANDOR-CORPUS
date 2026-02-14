@@ -1,0 +1,1 @@
+Notice: > The data used in this project is sourced from BetterUp, Inc. This project is strictly for educational purposes. To comply with the provider's Terms of Use, the original dataset (.csv/raw files) is not included in this repository. No analysis herein is intended for commercial use or the identification of individuals.
